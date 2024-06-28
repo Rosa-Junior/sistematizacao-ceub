@@ -1,6 +1,5 @@
 # <h1 align="center"> Sistematização - CEUB - POO </h1>
 
-
 Repositório para a sistematização da matéria de POO do curso de Análise e Desenvolvimento de Sistemas. 
 
 # <h1 align="center"> Descrição do projeto: </h1>
@@ -25,7 +24,7 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 
 # :computer: Tecnologias e técnicas utilizadas:
 
-**Java 8**
+**Java 21**
 
 **Eclipse IDE For Java Developers**
 
