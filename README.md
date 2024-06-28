@@ -1,6 +1,5 @@
 # <h1 align="center"> Sistematização - CEUB - POO </h1>
 
-> :construction: Projeto em construção! :construction:
 
 Repositório para a sistematização da matéria de POO do curso de Análise e Desenvolvimento de Sistemas. 
 
@@ -8,7 +7,9 @@ Repositório para a sistematização da matéria de POO do curso de Análise e D
 
 Projeto com o intuito de criar cartões com informações de funcionários da empresa fictícia MGS (Max Global Sports). 
 
-O sistema gera os principais dados dos funcionários, para serem facilmente apresentados quando necessário.  
+O sistema gera os principais dados dos funcionários, para serem facilmente apresentados quando necessário.
+
+<h1 align="center"> > :construction: Projeto em construção! :construction: </h1>
 
 Tecnologias e técnicas utilizadas:
 
