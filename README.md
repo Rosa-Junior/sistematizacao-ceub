@@ -11,11 +11,11 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 
 <h1 align="center"> :construction: Projeto em construção! :construction: </h1>
 
-# 📁 Acesso ao projeto
+# :file_folder: Acesso ao projeto
 
 **-O código fonte do projeto encontra-se neste repositório.**
 
-# 🛠️ Abrir e rodar o projeto
+# :floppy_disk: Abrir e rodar o projeto
 
 **-O projeto pode ser executado por uma IDE, pois ainda está em finalização.**
 
@@ -25,6 +25,8 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 
 # :computer: Tecnologias e técnicas utilizadas:
 
-Java 8
-Eclipse IDE For Java Developers
-Programação Orientada a Objetos
+**Java 8**
+
+**Eclipse IDE For Java Developers**
+
+**Programação Orientada a Objetos**
