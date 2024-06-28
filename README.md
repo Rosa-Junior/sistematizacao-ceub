@@ -9,7 +9,7 @@ Projeto com o intuito de criar cartões com informações de funcionários da em
 
 O sistema gera os principais dados dos funcionários, para serem facilmente apresentados quando necessário.
 
-<h1 align="center"> > :construction: Projeto em construção! :construction: </h1>
+<h1 align="center"> :construction: Projeto em construção! :construction: </h1>
 
 Tecnologias e técnicas utilizadas:
 
