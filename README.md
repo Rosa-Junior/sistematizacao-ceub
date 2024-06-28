@@ -11,6 +11,14 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 
 <h1 align="center"> :construction: Projeto em construção! :construction: </h1>
 
+# 📁 Acesso ao projeto
+
+**O código fonte do projeto encontra-se neste repositório.**
+
+# 🛠️ Abrir e rodar o projeto
+
+**Apresente as instruções necessárias para abrir e executar o projeto**
+
 Tecnologias e técnicas utilizadas:
 
 Java 8
