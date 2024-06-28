@@ -1,5 +1,7 @@
 # <h1 align="center"> Sistematização - CEUB - POO </h1>
 
+> :construction: Projeto em construção! :construction:
+
 Repositório para a sistematização da matéria de POO do curso de Análise e Desenvolvimento de Sistemas. 
 
 # <h1 align="center"> Descrição do projeto: </h1>
