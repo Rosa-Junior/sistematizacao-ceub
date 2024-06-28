@@ -18,8 +18,10 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 # 🛠️ Abrir e rodar o projeto
 
 **-O projeto pode ser executado por uma IDE, pois ainda está em finalização.**
--Pode ser utilizada a IDE Eclipse.
--É necessário instalar a aplicação JDK 21.
+
+**-Pode ser utilizada a IDE Eclipse.**
+
+**-É necessário instalar a aplicação JDK 21.**
 
 # :computer: Tecnologias e técnicas utilizadas:
 
