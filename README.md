@@ -13,6 +13,7 @@ O sistema gera os principais dados dos funcionários, para serem facilmente apre
 # :file_folder: Acesso ao projeto
 
 **-O código fonte do projeto encontra-se neste repositório.**
+**[Git Clone ](https://github.com/Rosa-Junior/sistematizacao-ceub.git)**
 
 # :floppy_disk: Abrir e rodar o projeto
 
